@@ -58,6 +58,13 @@ github "stdlib",      "4.2.1", :repo => "puppetlabs/puppetlabs-stdlib"
 github "sudo",        "1.0.0"
 github "xquartz",     "1.2.1"
 
+github "heroku",      "2.1.1"
+github "packer",      "0.6.1"
+github "iterm2",      "1.2.5"
+github "java",        "0.0.3", :repo => "Betterment/puppet-jenv"
+github "osx",         "2.8.0"
+github "vcsrepo",     "1.2.0", :repo => "puppetlabs/puppetlabs-vcsrepo"
+
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
 # github "elasticsearch", "2.7.2"

@@ -1,0 +1,12 @@
+---
+# This is an example of the kinds of things that you can configure via hiera.
+# If you've left the defaults in `/hiera.yml`, you might want to copy this file
+# to `hiera/common.yaml`, or feel free to start with a blank slate!
+
+# Have a gander at some of these examples to get an idea of some of the things
+# that you can affect 'out of the box', and then customise to your
+# heart's content.
+
+# Fix up chgo until https://github.com/wfarr/chgo/pull/6 gets merged
+go::chgo_source: "mattheath/chgo"
+go::chgo_version: "3f0fb76a1eea09263011e3ad7d165bc525326de7"
