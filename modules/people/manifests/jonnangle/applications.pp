@@ -23,6 +23,7 @@ class people::jonnangle::applications {
   include iterm2::colors::solarized_light
   include iterm2::colors::zenburn
   include iterm2::stable
+  include xquartz
   include heroku
   include packer
 
