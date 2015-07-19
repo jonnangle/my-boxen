@@ -26,6 +26,7 @@ class people::jonnangle::applications {
   include xquartz
   include heroku
   include packer
+  include jq
 
   go::version { '1.4.2': }
 

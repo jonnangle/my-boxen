@@ -64,6 +64,7 @@ github "iterm2",      "1.2.5"
 github "java",        "0.0.3", :repo => "Betterment/puppet-jenv"
 github "osx",         "2.8.0"
 github "vcsrepo",     "1.2.0", :repo => "puppetlabs/puppetlabs-vcsrepo"
+github "jq",          "1.0.0"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
