@@ -2,6 +2,7 @@ class people::jonnangle::base {
   package { [
     'autojump',
     'awscli',
+    'git-extras',
     'htop-osx',
     'nmap',
     'peco',
