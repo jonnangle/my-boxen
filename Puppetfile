@@ -50,7 +50,7 @@ github "inifile",     "1.1.1", :repo => "puppetlabs/puppetlabs-inifile"
 github "nginx",       "1.4.5"
 github "nodejs",      "4.0.1"
 github "openssl",     "1.0.0"
-github "phantomjs",   "2.4.0"
+github "phantomjs",   "3.0.0"
 github "pkgconfig",   "1.0.0"
 github "repository",  "2.4.1"
 github "ruby",        "8.5.2"
@@ -64,7 +64,9 @@ github "iterm2",      "1.2.5"
 github "java",        "0.0.3", :repo => "Betterment/puppet-jenv"
 github "osx",         "2.8.0"
 github "vcsrepo",     "1.2.0", :repo => "puppetlabs/puppetlabs-vcsrepo"
+github "python",      "3.0.0", :repo => "mloberg/puppet-python"
 github "jq",          "1.0.0"
+github "virtualbox",  "1.0.13"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.

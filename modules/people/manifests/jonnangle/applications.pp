@@ -16,19 +16,22 @@ class people::jonnangle::applications {
     provider => 'brewcask',
   }
 
-
   include iterm2::colors::arthur
   include iterm2::colors::saturn
   include iterm2::colors::solarized_dark
   include iterm2::colors::solarized_light
   include iterm2::colors::zenburn
   include iterm2::stable
+  include virtualbox
   include xquartz
   include heroku
   include packer
+  include phantomjs
   include jq
 
   go::version { '1.4.2': }
+
+  phantomjs::version { '2.0.0' : }
 
   sudoers { $::boxen_user:
     ensure   => present,
