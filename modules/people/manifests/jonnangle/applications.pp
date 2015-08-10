@@ -10,6 +10,7 @@ class people::jonnangle::applications {
     'evernote',
     'google-chrome',
     'spectacle',
+    'totalspaces',
     'wireshark',
   ]:
     ensure => present,
