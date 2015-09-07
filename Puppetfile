@@ -67,6 +67,8 @@ github "vcsrepo",     "1.2.0", :repo => "puppetlabs/puppetlabs-vcsrepo"
 github "python",      "3.0.0", :repo => "mloberg/puppet-python"
 github "jq",          "1.0.0"
 github "virtualbox",  "1.0.13"
+github "vagrant",     "3.3.1"
+github "mysql",       "2.1.2"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.

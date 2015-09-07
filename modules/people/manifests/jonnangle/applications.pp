@@ -29,6 +29,11 @@ class people::jonnangle::applications {
   include packer
   include phantomjs
   include jq
+  include mysql
+
+  include vagrant
+  vagrant::plugin { 'vagrant-cachier': }
+  vagrant::plugin { 'vagrant-serverspec': }
 
   go::version { '1.4.2': }
 
