@@ -136,7 +136,7 @@ GITHUBTARBALL
 GITHUBTARBALL
   remote: mloberg/puppet-python
   specs:
-    python (3.0.0)
+    python (3.0.2)
 
 GITHUBTARBALL
   remote: puppetlabs/puppetlabs-inifile
@@ -174,14 +174,15 @@ DEPENDENCIES
   java (= 0.0.3)
   jq (= 1.0.0)
   module_data (= 0.0.4)
+  mysql (= 2.1.2)
   nginx (= 1.6.0)
-  nodejs (= 5.0.0) 
+  nodejs (= 5.0.0)
   openssl (= 1.0.0)
   osx (= 2.8.0)
   packer (= 0.6.1)
   phantomjs (= 3.0.0)
   pkgconfig (= 1.0.0)
-  python (= 3.0.0)
+  python (= 3.0.2)
   repository (= 2.4.1)
   ruby (= 8.5.3)
   stdlib (= 4.7.0)
