@@ -17,4 +17,12 @@ class people::jonnangle::base {
     ensure => latest,
   }
 
+  package { 'curl':
+    ensure => latest,
+    install_options => [
+      '--with-openssl',
+      '--with-nghttp2',
+    ],
+  }
+
 }
