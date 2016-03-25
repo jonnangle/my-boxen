@@ -76,7 +76,7 @@ GITHUBTARBALL
 GITHUBTARBALL
   remote: boxen/puppet-nodejs
   specs:
-    nodejs (5.0.0)
+    nodejs (5.0.5)
 
 GITHUBTARBALL
   remote: boxen/puppet-openssl
@@ -121,7 +121,7 @@ GITHUBTARBALL
 GITHUBTARBALL
   remote: boxen/puppet-vagrant
   specs:
-    vagrant (3.3.1)
+    vagrant (3.3.4)
 
 GITHUBTARBALL
   remote: boxen/puppet-virtualbox
@@ -176,7 +176,7 @@ DEPENDENCIES
   module_data (= 0.0.4)
   mysql (= 2.1.2)
   nginx (= 1.6.0)
-  nodejs (= 5.0.0)
+  nodejs (= 5.0.5)
   openssl (= 1.0.0)
   osx (= 2.8.0)
   packer (= 0.6.1)
@@ -187,7 +187,7 @@ DEPENDENCIES
   ruby (= 8.5.3)
   stdlib (= 4.7.0)
   sudo (= 1.0.0)
-  vagrant (= 3.3.1)
+  vagrant (= 3.3.4)
   vcsrepo (= 1.2.0)
   virtualbox (= 1.0.13)
   xquartz (= 1.2.1)

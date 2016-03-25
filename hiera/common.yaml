@@ -13,3 +13,5 @@ go::chgo_version: "3f0fb76a1eea09263011e3ad7d165bc525326de7"
 
 virtualbox::version: 4.3.30
 virtualbox::patch_level: 101610
+
+nodejs::build::ensure: "v2.2.5"
