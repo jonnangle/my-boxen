@@ -51,7 +51,7 @@ GITHUBTARBALL
 GITHUBTARBALL
   remote: boxen/puppet-hub
   specs:
-    hub (1.4.1)
+    hub (1.4.3)
 
 GITHUBTARBALL
   remote: boxen/puppet-iterm2
@@ -168,7 +168,7 @@ DEPENDENCIES
   go (= 2.1.0)
   heroku (= 2.1.1)
   homebrew (= 2.0.2)
-  hub (= 1.4.1)
+  hub (= 1.4.3)
   inifile (= 1.4.1)
   iterm2 (= 1.2.5)
   java (= 0.0.3)
