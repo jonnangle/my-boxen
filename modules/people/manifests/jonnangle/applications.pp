@@ -29,6 +29,7 @@ class people::jonnangle::applications {
   include packer
   include phantomjs
   include jq
+  include autoenv
 
   include vagrant
   vagrant::plugin { 'vagrant-cachier': }

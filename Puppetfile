@@ -69,6 +69,7 @@ github "jq",          "1.0.0"
 github "virtualbox",  "1.0.13"
 github "vagrant",     "3.3.4"
 github "mysql",       "2.1.2"
+github "autoenv",     "1.0.0", :repo => "jdar/puppet-autoenv"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
