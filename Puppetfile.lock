@@ -172,14 +172,9 @@ DEPENDENCIES
   gcc (= 3.0.2)
   git (= 2.11.0)
   go (= 2.1.0)
-<<<<<<< HEAD
   heroku (= 2.1.1)
-  homebrew (= 2.0.2)
-  hub (= 1.4.3)
-=======
   homebrew (= 2.1.0)
   hub (= 1.4.4)
->>>>>>> upstream/master
   inifile (= 1.4.1)
   iterm2 (= 1.2.5)
   java (= 0.0.3)
@@ -187,11 +182,7 @@ DEPENDENCIES
   module_data (= 0.0.4)
   mysql (= 2.1.2)
   nginx (= 1.7.0)
-<<<<<<< HEAD
-  nodejs (= 5.0.7)
-=======
   nodejs (= 5.0.9)
->>>>>>> upstream/master
   openssl (= 1.0.0)
   osx (= 2.8.0)
   packer (= 0.6.1)
